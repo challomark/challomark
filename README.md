@@ -11,7 +11,7 @@
 </div>
 
 # 👋 Hi there, I'm Challo.
-## 🌱 I’m currently learning Software Engineering at ALX Africa.
+## 🌱 I’m currently learning Software Engineering at ALX Africa (Holberton School).
 ### 🧠 READY TO GEEK OUT.
 #### ⚡ Fun fact: Anyone can learn how to code. All you need is GRIT. The goal is to improve everyday regardless! 😊
 
