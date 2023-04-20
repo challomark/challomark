@@ -10,7 +10,7 @@
   </a>
 </div>
 
-# 🙋🏾‍♂️ Hi there, I'm Challo.
+# 👋🏾 Hi there, I'm Challo.
 ## 👨🏾‍💻 I’m currently learning Software Engineering at ALX Africa aka Holberton School.
 ### 🧠 Let's GEEK OUT together.
 ### ⚡ Fun fact: Anyone can learn how to code. All you need is GRIT. The goal is to improve everyday regardless! 😊
