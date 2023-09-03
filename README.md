@@ -10,9 +10,9 @@
   </a>
 </div>
 
-# 👋🏾 Hi there, I'm Challo.
+# 👋🏾 Hi there, I'm Challo Mark.
 ## 🌱 A Software Engineering student at ALX Africa. (Holberton School)
-### 🧠 Let's GEEK OUT together!!
+### 🧠 Let's GEEK OUT together!
 ### 👨🏾‍💻 Fun fact: "Anyone can learn how to code". All you need is GRIT. The goal is to improve everyday regardless! 😊
 
 ---
