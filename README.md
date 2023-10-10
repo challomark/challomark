@@ -13,7 +13,7 @@
 # 👋🏾 Hi there, I'm Challo.
 ## 🌱 Software Engineering student at ALX Africa.
 ### 🧠 Let's GEEK OUT together.
-### 👨🏾‍💻 Fun fact: "Anyone can learn how to code". All you need is GRIT. The goal is to improve everyday regardless! 😊
+### 👨🏾‍💻 Fun fact: "Anyone can learn how to code". All you need is GRIT. The goal is to improve everyday regardless. 😊
 
 ---
 
