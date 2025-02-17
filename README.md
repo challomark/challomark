@@ -11,7 +11,7 @@
 </div>
 
 # 👋🏾 Hi there, I'm Challo!
-## 🌱 A Software Engineering student at ALX Africa.
+## 🌱 Security Tech Entrepreneur 
 ### 🧠 Let's GEEK OUT together!
 ### 👨🏾‍💻 Fun fact: "Anyone can learn how to code". All you need is GRIT. The goal is to improve everyday regardless! 😊
 
