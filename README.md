@@ -11,8 +11,7 @@
 </div>
 
 # 👋🏾 Hi there, I'm Challo!
-## 🌱 Security Tech Entrepreneur 
-### 🧠 Let's GEEK OUT together!
+## 🧠 Let's GEEK OUT together!
 ### 👨🏾‍💻 Fun fact: "Anyone can learn how to code". All you need is GRIT. The goal is to improve everyday regardless! 😊
 
 ---
