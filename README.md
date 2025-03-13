@@ -12,7 +12,6 @@
 
 # 👋🏾 Hi there, I'm Challo!
 ## 🧠 Let's GEEK OUT together.
-### 👨🏾‍💻 Fun fact: "Anyone can learn how to code". All you need is GRIT. The goal is to improve everyday regardless! 😊
 
 ---
 
